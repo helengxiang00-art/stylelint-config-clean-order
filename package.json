@@ -13,6 +13,10 @@
     "type": "git",
     "url": "git+https://github.com/kutsan/stylelint-config-clean-order.git"
   },
+    "homepage": "https://github.com/kutsan/stylelint-config-clean-order#readme",
+  "bugs": {
+    "url": "https://github.com/kutsan/stylelint-config-clean-order/issues"
+  },
   "license": "MIT",
   "author": "Kutsan Kaplan <me@kutsan.dev> (https://kutsan.dev)",
   "type": "module",
